@@ -45,7 +45,7 @@ audio:not([controls]) {
 
 /**
  * Address `[hidden]` styling not present in IE 8/9.
- * Hide the `template` element in IE, Safari, and Firefox < 22.
+ * Hide the `template` 06-element-ui in IE, Safari, and Firefox < 22.
  */
 
 [hidden],
@@ -225,7 +225,7 @@ sub {
    ========================================================================== */
 
 /**
- * Remove border when inside `a` element in IE 8/9.
+ * Remove border when inside `a` 06-element-ui in IE 8/9.
  */
 
 img {
